@@ -14,3 +14,5 @@ def parse
     address.split(',')
   end.flatten
 end
+
+end
